@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://i4lgoh55qg0h"]
+
+[ext_resource type="Material" uid="uid://bmw3xjqdrtw62" path="res://Prototyping/Textures/Dark/texture_1.material" id="1_8vw14"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="CSGBox3D" type="CSGBox3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.5, 0)
+material_override = ExtResource("1_8vw14")
+size = Vector3(100, 1, 100)
+material = ExtResource("1_8vw14")

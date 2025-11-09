@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bo2bo8vxv1tre"
-path="res://.godot/imported/Bridge Tiles Sheet.png-ecf21b9390430eb30485a45c65ea3187.ctex"
+uid="uid://dbwi8deimbawn"
+path="res://.godot/imported/ApartmentCharlieSheet.png-f93a35093ec9f010b1c54b4ead41fa13.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Game/TileSheets/Bridge Tiles Sheet.png"
-dest_files=["res://.godot/imported/Bridge Tiles Sheet.png-ecf21b9390430eb30485a45c65ea3187.ctex"]
+source_file="res://Game/Tiles/TileSheets/Tier1ConsumptionTileSheets/ApartmentCharlieSheet.png"
+dest_files=["res://.godot/imported/ApartmentCharlieSheet.png-f93a35093ec9f010b1c54b4ead41fa13.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://3fo026ubwxxd"
-path="res://.godot/imported/HouseDeltaSheet.png-cdb535791eff142e8df7fceb0024c8a4.ctex"
+uid="uid://57qbumscvsyx"
+path="res://.godot/imported/Nuclear Plant Sheet.png-9677c932488094a7c52f059ee47eea5a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Game/TileSheets/Tier1ConsumptionTileSheets/HouseDeltaSheet.png"
-dest_files=["res://.godot/imported/HouseDeltaSheet.png-cdb535791eff142e8df7fceb0024c8a4.ctex"]
+source_file="res://Game/Tiles/TileSheets/ProductionTileSheets/Nuclear Plant Sheet.png"
+dest_files=["res://.godot/imported/Nuclear Plant Sheet.png-9677c932488094a7c52f059ee47eea5a.ctex"]
 
 [params]
 

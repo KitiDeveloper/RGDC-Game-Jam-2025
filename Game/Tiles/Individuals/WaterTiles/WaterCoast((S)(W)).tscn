@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://cvsnx05lh2qvp"]
+
+[ext_resource type="Texture2D" uid="uid://ddwv2vqxc4lpg" path="res://Game/Tiles/TileSheets/Water Tiles Sheet.png" id="1_wshwq"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ppked"]
+atlas = ExtResource("1_wshwq")
+region = Rect2(66, 130, 64, 128)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(0, -45.5)
+scale = Vector2(0.941, 0.941)
+texture = SubResource("AtlasTexture_ppked")

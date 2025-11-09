@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dbba8q6xpqiac"
-path="res://.godot/imported/BarAlphaSheet.png-8efb70dbdf55f73626d4212d1a8a6651.ctex"
+uid="uid://j6bup0kstc8e"
+path="res://.godot/imported/Road Tiles Sheet.png-4d4961c2a4dca1fdc16c7c54a586af39.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Game/TileSheets/Tier1ConsumptionTileSheets/BarAlphaSheet.png"
-dest_files=["res://.godot/imported/BarAlphaSheet.png-8efb70dbdf55f73626d4212d1a8a6651.ctex"]
+source_file="res://Game/Tiles/TileSheets/Road Tiles Sheet.png"
+dest_files=["res://.godot/imported/Road Tiles Sheet.png-4d4961c2a4dca1fdc16c7c54a586af39.ctex"]
 
 [params]
 

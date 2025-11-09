@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://8h2ovpuf5m2g"
-path="res://.godot/imported/Coal Plant.png-41a5da41f60037b83171a86b1fa33c74.ctex"
+uid="uid://ddwv2vqxc4lpg"
+path="res://.godot/imported/Water Tiles Sheet.png-19924bdd19bebaeaf2843e48f24907fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Game/TileSheets/ProductionTileSheets/Coal Plant.png"
-dest_files=["res://.godot/imported/Coal Plant.png-41a5da41f60037b83171a86b1fa33c74.ctex"]
+source_file="res://Game/Tiles/TileSheets/Water Tiles Sheet.png"
+dest_files=["res://.godot/imported/Water Tiles Sheet.png-19924bdd19bebaeaf2843e48f24907fc.ctex"]
 
 [params]
 

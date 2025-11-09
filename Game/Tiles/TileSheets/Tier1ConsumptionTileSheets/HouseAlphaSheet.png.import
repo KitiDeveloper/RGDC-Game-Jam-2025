@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cv5vcdx1cicww"
-path="res://.godot/imported/ApartmentBetaSheet.png-e268963fe63e1ba1060d9c0ab52d9f3b.ctex"
+uid="uid://dri2qw38lufma"
+path="res://.godot/imported/HouseAlphaSheet.png-08927964e7afa88debfa43185a507477.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Game/TileSheets/Tier1ConsumptionTileSheets/ApartmentBetaSheet.png"
-dest_files=["res://.godot/imported/ApartmentBetaSheet.png-e268963fe63e1ba1060d9c0ab52d9f3b.ctex"]
+source_file="res://Game/Tiles/TileSheets/Tier1ConsumptionTileSheets/HouseAlphaSheet.png"
+dest_files=["res://.godot/imported/HouseAlphaSheet.png-08927964e7afa88debfa43185a507477.ctex"]
 
 [params]
 

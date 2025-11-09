@@ -1,0 +1,69 @@
+[gd_scene load_steps=10 format=3 uid="uid://bxclgxhf5dxxd"]
+
+[ext_resource type="Texture2D" uid="uid://ddwv2vqxc4lpg" path="res://Game/Tiles/TileSheets/Water Tiles Sheet.png" id="1_3finx"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_70cdh"]
+atlas = ExtResource("1_3finx")
+region = Rect2(66, 386, 64, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qynt2"]
+atlas = ExtResource("1_3finx")
+region = Rect2(194, 258, 64, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_cqn61"]
+atlas = ExtResource("1_3finx")
+region = Rect2(130, 258, 64, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_143uu"]
+atlas = ExtResource("1_3finx")
+region = Rect2(130, 386, 64, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_6k07o"]
+atlas = ExtResource("1_3finx")
+region = Rect2(258, 258, 64, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_s0jhw"]
+atlas = ExtResource("1_3finx")
+region = Rect2(2, 386, 64, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_saq6q"]
+atlas = ExtResource("1_3finx")
+region = Rect2(194, 386, 64, 128)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_e576k"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_70cdh")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qynt2")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_cqn61")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_143uu")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_6k07o")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_s0jhw")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_saq6q")
+}],
+"loop": true,
+"name": &"default",
+"speed": 0.5
+}]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+process_mode = 3
+position = Vector2(0, -45.5)
+scale = Vector2(0.941, 0.941)
+sprite_frames = SubResource("SpriteFrames_e576k")
+frame_progress = 0.9500566

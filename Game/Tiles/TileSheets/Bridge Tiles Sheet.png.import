@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://j6bup0kstc8e"
-path="res://.godot/imported/Road Tiles Sheet.png-b48b5bc2c0b2ca38b9182912ed9b4ac4.ctex"
+uid="uid://bo2bo8vxv1tre"
+path="res://.godot/imported/Bridge Tiles Sheet.png-aa5a2e6200212ba86d4f50cd636be9d9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Game/TileSheets/Road Tiles Sheet.png"
-dest_files=["res://.godot/imported/Road Tiles Sheet.png-b48b5bc2c0b2ca38b9182912ed9b4ac4.ctex"]
+source_file="res://Game/Tiles/TileSheets/Bridge Tiles Sheet.png"
+dest_files=["res://.godot/imported/Bridge Tiles Sheet.png-aa5a2e6200212ba86d4f50cd636be9d9.ctex"]
 
 [params]
 

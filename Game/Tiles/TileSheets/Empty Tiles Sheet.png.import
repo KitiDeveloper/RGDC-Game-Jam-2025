@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dbwi8deimbawn"
-path="res://.godot/imported/ApartmentCharlieSheet.png-34922abe855311657d4711da077c305c.ctex"
+uid="uid://r1paanqmb0ts"
+path="res://.godot/imported/Empty Tiles Sheet.png-d95a1b37323d8fd6f96f694fd356635f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Game/TileSheets/Tier1ConsumptionTileSheets/ApartmentCharlieSheet.png"
-dest_files=["res://.godot/imported/ApartmentCharlieSheet.png-34922abe855311657d4711da077c305c.ctex"]
+source_file="res://Game/Tiles/TileSheets/Empty Tiles Sheet.png"
+dest_files=["res://.godot/imported/Empty Tiles Sheet.png-d95a1b37323d8fd6f96f694fd356635f.ctex"]
 
 [params]
 

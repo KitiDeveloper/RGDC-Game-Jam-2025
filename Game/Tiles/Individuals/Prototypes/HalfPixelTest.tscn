@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://pa6qfm34q6tx"]
+
+[ext_resource type="Texture2D" uid="uid://r1paanqmb0ts" path="res://Game/Tiles/TileSheets/Empty Tiles Sheet.png" id="1_s3sdp"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_i6roq"]
+atlas = ExtResource("1_s3sdp")
+region = Rect2(2, 2, 64, 128)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(0, -46.5)
+scale = Vector2(0.97, 0.97)
+texture = SubResource("AtlasTexture_i6roq")

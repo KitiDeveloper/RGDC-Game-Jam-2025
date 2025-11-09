@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dri2qw38lufma"
-path="res://.godot/imported/HouseAlphaSheet.png-8c7d2aff7b38980881198763323f4335.ctex"
+uid="uid://dow37spm8a7j6"
+path="res://.godot/imported/Solar Panels Sheet.png-df12fd4a28b1cb5425747a58956d24e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Game/TileSheets/Tier1ConsumptionTileSheets/HouseAlphaSheet.png"
-dest_files=["res://.godot/imported/HouseAlphaSheet.png-8c7d2aff7b38980881198763323f4335.ctex"]
+source_file="res://Game/Tiles/TileSheets/ProductionTileSheets/Solar Panels Sheet.png"
+dest_files=["res://.godot/imported/Solar Panels Sheet.png-df12fd4a28b1cb5425747a58956d24e5.ctex"]
 
 [params]
 
